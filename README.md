@@ -35,3 +35,8 @@ Testes:
 ### Link da tarefa
 
 `https://docs.google.com/document/d/1151DNeEkBu5BRYgk4P_n65Y_uZwQeT-kRFnIZRhv2-c/edit`
+
+### Log do projeto
+
+Criação do projeto com base em: `https://laravel.com/docs/10.x`
+Adicionando dependências de frontend com base em: `https://laravel.com/docs/6.x/frontend`
