@@ -1,10 +1,10 @@
-# Sistema CRM para gerenciamento de Leads
+# Sistema CRM para Gerenciamento de Leads
 
 ## Informações
 
-PHP 8.2.4
-XAMPP Panel 3.3.0
-NPM 20.11.0
+PHP 8.2.4<br />
+XAMPP Panel 3.3.0<br />
+NPM 20.11.0<br />
 
 ### Requisitos
 
@@ -38,5 +38,5 @@ Testes:
 
 ### Log do projeto
 
-Criação do projeto com base em: `https://laravel.com/docs/10.x`
-Adicionando dependências de frontend com base em: `https://laravel.com/docs/6.x/frontend`
+Criação do projeto com base em: `https://laravel.com/docs/10.x` <br />
+Adicionando dependências de frontend com base em: `https://laravel.com/docs/6.x/frontend` <br />
